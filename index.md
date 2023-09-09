@@ -10,4 +10,7 @@ My first headings
 ``` javascript
 var myvar = "Hello World!";
 ```
-
+- [x] Start GitHub Classroom Assignment 1
+- [x] Upload screenshot of Assignment 1 to eLearning
+- [x] This item is complete
+- [ ] This item is not complete
