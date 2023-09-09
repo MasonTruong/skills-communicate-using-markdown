@@ -3,6 +3,7 @@
 ## Second-level heading
 ## Sub headings are smaller!
 
-
-
 My first headings
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
